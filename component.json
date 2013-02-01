@@ -9,6 +9,6 @@
   "development": {},
   "license": "MIT",
   "scripts": [
-    "index.js"
+    "example.js"
   ]
 }
