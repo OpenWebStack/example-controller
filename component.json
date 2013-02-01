@@ -1,0 +1,14 @@
+{
+  "name": "example-controller",
+  "repo": "openwebstack/example-controller",
+  "description": "example Angular controller",
+  "version": "0.0.1",
+  "main": "example.js",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
